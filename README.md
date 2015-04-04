@@ -7,6 +7,7 @@ Also the trees have a lot of polygons and I think some form of LOD should be use
 Screenshots/GIFs:
 
 [Awesome squirrel-POV](https://gfycat.com/DismalAgedKakarikis)
+
 [Video](http://youtu.be/P7YLTwcZt20)
 
 ![LameTD Screenshot 1](http://download.theshoemaker.de/stuff/LameTD_GitHub_imgs/lameTD1.png "LameTD Screenshot 1")
