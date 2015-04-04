@@ -7,3 +7,4 @@ color_map.bmp
 *.suo
 LameTD/Debug/
 LameTD/Release/
+*.ridleymesh
