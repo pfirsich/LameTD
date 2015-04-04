@@ -1,0 +1,9 @@
+*.vcxproj.user
+Debug/*
+Release/*
+color_map.bmp
+*.opensdf
+*.sdf
+*.suo
+LameTD/Debug/
+LameTD/Release/
