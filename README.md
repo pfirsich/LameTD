@@ -5,7 +5,9 @@ Sadly though even after quite a while the framerate is just as it was 5 years ag
 Also the trees have a lot of polygons and I think some form of LOD should be used, if that could be achieved without being too noticeable.
 
 Screenshots/GIFs:
+
 [Awesome squirrel-POV](https://gfycat.com/DismalAgedKakarikis)
+[Video](http://youtu.be/P7YLTwcZt20)
 
 ![LameTD Screenshot 1](http://download.theshoemaker.de/stuff/LameTD_GitHub_imgs/lameTD1.png "LameTD Screenshot 1")
 ![LameTD Screenshot 2](http://download.theshoemaker.de/stuff/LameTD_GitHub_imgs/lameTD2.png "LameTD Screenshot 2")
